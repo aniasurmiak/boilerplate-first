@@ -1,0 +1,25 @@
+@import "variables";
+@import "./../../node_modules/bootstrap/scss/bootstrap.scss";
+.navbar {
+  padding: .5rem 13rem;
+  }
+ul {
+  color: $color;
+}
+.navbar-light .navbar-brand {
+  color: $color;
+}
+.container {
+  padding-top: 2rem;
+}
+.carousel-inner {
+   border-radius: 0.3rem;
+ }
+.carousel-item {
+  width: 100vw;
+  height: 50vh;
+  margin: 0 auto;
+ }
+ .foto {
+   border-radius: 0.3rem;
+ }
